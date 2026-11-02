@@ -1,4 +1,5 @@
-
+# In the real world, I would use the command .get() when I am not sure if there is a key that exists in the dictionary as it would allow me to prevent errors and I can set a default value. Bracket notation would be used when I know the key exists and need to access the value directly. My rule of thumb would be to use .get() to be on the safe side and the brackets for when I am aware the key is there.
+# This is because both organize data and summarize the information. Python would be more usegul because it can process the data faster and update the summaries without changing the tables.
 print("--- Exercise 1 ----")
 
 customer = {
